@@ -7,4 +7,5 @@ The conditions to win are: complete a row horizontally, complete a column vertic
 The conditions to lose are: Your opponent completes a row horizontally, completes a column vertically, or completes a diagonal with your symbol.
 The conditions for a draw are: The grid is completely full of symbols with neither you nor your opponent completing a row horizontally, a column vertically, or a diagonal with your symbol.
 
+Propositions Behind Project:
 
